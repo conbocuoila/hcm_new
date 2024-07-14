@@ -1,0 +1,17 @@
+.wrapper__details {
+  width: 500px;
+  height: 447px;
+  padding: 20px 0;
+  background-color: rgba(#ccc, 0.3);
+  border-radius: 20px;
+  text-align: center;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  img{
+    width: 500px;
+    height: 200px;
+    object-fit: contain;
+  }
+}
